@@ -233,8 +233,8 @@ button {
 .header_bg{
   width: 100%;
   float: left;
-  background: rgb(49,120,249);
-  background: linear-gradient(24deg, rgba(49,120,249,1) 0%, rgba(180,92,251,1) 35%, rgba(154,227,221,1) 83%);
+  background: rgb(54,4,77); 
+  background: linear-gradient(90deg, rgba(54,4,77,1) 27%, rgba(54,4,77,1) 100%);
 }
 .header_left{
     width: 50%;
@@ -474,6 +474,7 @@ button {
     background-color: #a01c9f;
     border-radius: 10px;
     padding: 30px 0px;
+    padding-top: 100px;
 }
 .box_main_1 {
     width: 100%;
@@ -481,6 +482,7 @@ button {
     background-color: #000000;
     border-radius: 10px;
     padding: 30px 0px;
+    padding-top: 100px;
 }
 .box_main_2 {
     width: 100%;
@@ -502,7 +504,7 @@ button {
     background-color: #3dc915;
     border-radius: 10px;
     padding: 30px 0px;
-    height: 100%;
+    padding-top: 100px;
 }
 .box_main_1:hover{
     background-color: #727272;
@@ -722,6 +724,15 @@ button {
     margin-left: 0px;
     font-weight: 450;
 }
+.contact_txt{
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    
+    color: #ffffff;
+    margin-left: 50px;
+    font-weight: 450;
+}
 .readable_text_1{
     width: 100%;
     float: left;
@@ -856,7 +867,7 @@ button {
 .footer_section{
     width: 100%;
     float: left;
-    background: rgb(33, 33, 33);
+    background: rgb(0, 0, 0);
     height: auto;
 }
 .about_text{
