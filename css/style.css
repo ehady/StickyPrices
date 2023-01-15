@@ -260,7 +260,7 @@ button {
     
 }
 .banner_img{
-    width: 95%;
+    width: 85%;
     float: left; 
 }
 
@@ -470,7 +470,10 @@ button {
 }
 .what_we_do_section_2{
     width: 100%;
-    float: left;
+    float: right;
+    position: relative;
+    left:150px; 
+    top:2px; 
     margin-top: 40px;
 }
 .box_main {
@@ -480,6 +483,9 @@ button {
     border-radius: 10px;
     padding: 30px 0px;
     padding-top: 100px;
+    /* position:sticky;
+    left:150px; 
+    top:2px;  */
 }
 .box_main_1 {
     width: 100%;
@@ -488,6 +494,9 @@ button {
     border-radius: 10px;
     padding: 30px 0px;
     padding-top: 100px;
+    /* position: relative; 
+    left:150px; 
+    top:2px;  */
 }
 .box_main_2 {
     width: 100%;
@@ -502,6 +511,9 @@ button {
     background-color: #4dffbe;
     border-radius: 10px;
     padding: 30px 0px;
+   /*  position: relative; 
+    left:150px;  
+    top:2px;  */
 }
 .box_main_4 {
     width: 100%;
@@ -510,9 +522,13 @@ button {
     border-radius: 10px;
     padding: 30px 0px;
     padding-top: 100px;
+   /*  position: relative; 
+    left:150px;  
+    top:2px;  */
 }
 .box_main_1:hover{
     background-color: #727272;
+    
 }
 .box_main_3:hover{
     background-color: #4499ae;
@@ -521,7 +537,7 @@ button {
     background-color: #3e9344;
 }
 .box_main:hover{
-    background-color: #a127b1;
+    background-color: #cf5dde;
 }
 .box_main.active {
     background-color: #fa3ea7;
