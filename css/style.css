@@ -215,6 +215,11 @@ button {
      padding-top: 90px;
      padding-bottom: 0px;
 }
+.layout_padding_1 {
+    margin-left: 150px;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
 .padding_0{
     padding: 0px;
 }
@@ -255,7 +260,7 @@ button {
     
 }
 .banner_img{
-    width: 100%;
+    width: 95%;
     float: left; 
 }
 
@@ -697,7 +702,7 @@ button {
 }
 .team_section{
     width: 100%;
-    float: left;
+    
 }
 .what_text_1 {
     width: 50%;
@@ -708,7 +713,7 @@ button {
 }
 .team_section_2{
     width: 100%;
-    float: left;
+    
 }
 .image_7{
     width: 100%;
@@ -720,7 +725,7 @@ button {
     float: left;
     font-size: 18px;
     text-align: center;
-    color: #060606;
+    color: #ffffff;
     margin-left: 0px;
     font-weight: 450;
 }
